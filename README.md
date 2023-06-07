@@ -1,1 +1,1 @@
-Este proyecto es una prueba como crear un repositorio y guardarlo en el repositorio local
+Prueba de Elvis Almonte sobre una preuba de crear un repositorio y clonarlo a mi repositorio local
